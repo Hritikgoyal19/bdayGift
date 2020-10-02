@@ -1,0 +1,22 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vasujoshi1203/vasujoshi.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Vasu Joshi",
+  "license": "WTFPL",
+  
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
